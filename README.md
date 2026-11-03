@@ -1,6 +1,6 @@
-# crootagent.GitHub.io
+# noteroute.github.io
 
-buat repository di sini dengan nama Root A
+buat repository di sini dengan nama NoteRoute
 bikin aplikasinya berbasis android dengan menggunakan native kotlin
 buat workflow di github yang otomatis auto tag dan release apk dan aab deadline tanggal 10 november 2026
 
